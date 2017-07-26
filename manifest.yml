@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 256M
   instances: 1
-  domain: mybluemix.net
+  domain: w3ibm.mybluemix.net
   name: Apptest
   host: Apptest
   disk_quota: 1024M
